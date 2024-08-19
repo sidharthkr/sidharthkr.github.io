@@ -31,6 +31,10 @@ github_username:  sidharthkr
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-data
+  - jekyll-planet
+  - jekyll-tagging
+  - jekyll-readme-index
 
 # Exclude from processing.
 # The following items will not be processed, by default.
